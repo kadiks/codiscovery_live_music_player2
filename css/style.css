@@ -1,0 +1,17 @@
+audio {
+    display: none;
+}
+
+.tracker #tracking {
+    height: 10px;
+    width: 100%;
+    background-color: lightgray;
+}
+
+#tracking div {
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    left: 0px;
+    position: relative;
+}
